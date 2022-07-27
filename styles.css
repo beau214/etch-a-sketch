@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+}
+
+.title {
+    text-align: center;
+}
+
+.board {
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.cell {
+    height: 25px;
+    width: 25px;
+    border: 1px solid black;
+}
+
+.row {
+    
+    
+}
+
+.cell:hover {
+    background-color: blue;
+}
